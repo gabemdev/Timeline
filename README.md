@@ -1,5 +1,6 @@
 # Timeline
 
+![Timeline](https://cldup.com/w98tGoP79d.gif)
 
 ### Inspired by
 * Filter Menu - [Dribble](https://dribbble.com/shots/1956586-Filter-Menu)

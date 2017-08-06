@@ -1,5 +1,9 @@
 # Timeline
 
+![FirstView](https://cldup.com/M844252uwM.png)
+
+![ExpandedView](https://cldup.com/dxCYn4d93S.png)
+
 ![Timeline](https://cldup.com/w98tGoP79d.gif)
 
 ### Inspired by
